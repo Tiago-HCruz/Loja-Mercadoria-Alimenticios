@@ -1,4 +1,4 @@
-index,Data,Id Produto,Id Cliente,Preço,Preço Unitario,Quantidade,Situação,Id Canal de Venda,Id Vendedor
+index,Data,ID Produto,ID Cliente,Preço,Preço Unitário,Quantidade,Situação,ID Canal de Venda,ID Vendedor
 0,13/11/2025,1,6,23.44,28.13,88,N,1,7
 1,1/3/2025,1,7,23.44,28.13,51,N,2,1
 2,10/6/2025,1,13,23.44,28.13,108,N,2,6
